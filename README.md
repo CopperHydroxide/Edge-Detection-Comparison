@@ -23,7 +23,7 @@ Edge-Detection-Comparison/
 │   └── synthetic/               # 15张合成图像
 │
 └── results/                     # 运行生成的结果展示图
-    ├── edge_show_1_nat_scipy_face.png
-    ├── edge_show_2_nat_bluecar.png
-    ├── edge_show_3_syn_syn_02.png
-    └── edge_show_4_syn_syn_complex_1.png
+    ├── edge_show_1_nat_scipy_face.png.png
+    ├── edge_show_2_nat_bluecar.png.png
+    ├── edge_show_3_syn_syn_02.png.png
+    └── edge_show_4_syn_syn_complex_1.png.png
